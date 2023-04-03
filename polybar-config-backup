@@ -1,0 +1,5 @@
+// Default module config
+
+modules-left = i3 dot spotify spotify-prev spotify-play-pause spotify-next dot cpu dot memory dot filesystem
+modules-center =
+modules-right = pulseaudio-control-input pulseaudio-control-output dot backlight dot battery dot network dot LD date RD dot sysmenu

@@ -1,0 +1,11 @@
+// shortcut for brave browser
+bindsym $mod+b   			exec --no-startup-id brave
+
+// shortcut for spotify
+bindsym $mod+Shift+s			exec --no-startup-id spotify
+
+// Lockscreen
+bindsym $mod+Control+l 			exec --no-startup-id "betterlockscreen --lock"
+
+// vscode
+bindsym $mod+c  			exec --no-startup-id code
